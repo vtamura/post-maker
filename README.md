@@ -10,4 +10,4 @@
 
 ## About the project
 <br/>
-It's a simple React Blog App that I developed to study **React Redux Toolkit**
+It's a simple React Blog App that I developed to study React Redux Toolkit
